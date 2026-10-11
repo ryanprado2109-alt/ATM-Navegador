@@ -56,7 +56,7 @@ Este projeto é apenas uma simulação educacional. Não realiza operações ban
 
 Desenvolvido por Rihan Prado.
 
-- GitHub: [@SEU_USUARIO](https://github.com/SEU_USUARIO)
+- GitHub: ryanprado2109-alt
 
 ---
 
