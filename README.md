@@ -28,7 +28,7 @@ Este projeto foi desenvolvido com fins educacionais, visando aprimorar conhecime
 
    Você também pode utilizar a extensão **Live Server** no Visual Studio Code para executar o projeto durante o desenvolvimento.
 
-## 📂 Estrutura do projeto
+## 📂 Estrutura atual do projeto
 
 ```text
 CASH DISP JS/
